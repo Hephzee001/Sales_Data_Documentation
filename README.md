@@ -13,3 +13,18 @@ best performance  from the data.
 ---
 The primary source of data used here is Sales Data and this is one of the data sets given during LITA
 capstone project during the Incubator Hub programme.
+
+### Tools Used
+---
+Microsoft Excel [Download here](https://www.microsoft.com)
+- For Data Cleaning
+- For Data Analysis
+- For Visualization
+  
+SQL- Structured Query Language for Querying of Data
+
+Power Bi
+- For Data Analysis
+- For Visualisation
+  
+  
